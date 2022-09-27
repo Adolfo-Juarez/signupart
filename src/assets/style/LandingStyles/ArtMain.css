@@ -1,0 +1,9 @@
+.image-container{
+    width: 100%;
+}
+.image-main-container{
+    border-radius: 50%;
+    background-color: rgb(206, 54, 54);
+    box-shadow: 1px 1px 110px rgba(196, 23, 23, 0.74);
+    width: 20%;
+}

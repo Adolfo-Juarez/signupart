@@ -1,0 +1,9 @@
+.linkNav{
+    text-decoration: none;
+    color: rgb(255, 82, 82);
+    margin: 0px 15px;
+}
+
+.linkNav:hover{
+    color: rgb(255, 146, 146);
+}

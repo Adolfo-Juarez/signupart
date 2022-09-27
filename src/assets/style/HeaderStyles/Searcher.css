@@ -1,0 +1,11 @@
+.searcher{
+    border:none;
+    border-radius: 9px;
+    padding: 5px 2px;
+    margin-left: 15px;
+}
+
+.searcher::placeholder{
+    padding-left: 10px;
+    color:rgb(136, 79, 77)
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "title":"La Gioconda",
+        "description":"El retrato de Lisa Gherardini, esposa de Francesco del Giocondo, más conocido como La Gioconda.",
+        "year":"1503",
+        "author":"Leonardo da Vinci",
+        "img-route":1
+    },
+
+    {
+        "title":"La noche estrellada",
+        "description":"La noche estrellada es un óleo sobre lienzo del pintor postimpresionista neerlandés Vincent van Gogh.",
+        "year":"1889",
+        "author":"Vincent van Gogh",
+        "img-route":2
+    },
+
+    {
+        "title":"Guernica",
+        "description":"Guernica es un cuadro de Pablo Picasso, pintado en París entre los meses de mayo y junio de 1937.",
+        "year":"1937",
+        "author":"Pablo Picasso",
+        "img-route":3
+    },
+
+    {
+        "title":"Las meninas",
+        "description":"Las meninas o La familia de Felipe IV se considera la obra maestra del pintor del Siglo de Oro.",
+        "year":"1656",
+        "author":"Diego Velázquez",
+        "img-route":4
+    },
+
+    {
+        "title":"El nacimiento de Venus",
+        "description":"El nacimiento de Venus es un cuadro realizado por el pintor renacentista Sandro Botticelli.",
+        "year":"1486",
+        "author":"Sandro Botticelli",
+        "img-route":5
+    }
+
+]

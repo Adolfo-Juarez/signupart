@@ -1,0 +1,49 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px 0;
+    border-top: 1px solid rgb(179, 179, 179);
+    margin-top: 40px;
+}
+
+.center-section-footer:not(.footer-bold, .legal){
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: st;
+}
+
+.footer-bold{
+    font-size: 18px;
+    font-weight: 600;
+    margin: 8px 0;
+}
+
+.legal{
+    margin: 4px 0;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.linkFooter{
+    text-decoration: none;
+    align-self: center;
+    margin-top: 4px;
+    color: rgb(190, 115, 115);
+}
+
+.linkFooter:hover{
+    color: rgb(255, 38, 38);
+}
+
+.code{
+    display: flex;
+    align-items: center;
+}
+
+.git{
+    width: 25px;
+    margin-right: 4px;
+}
