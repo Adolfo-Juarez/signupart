@@ -10,8 +10,10 @@ function App() {
   return (
     <>
       <Header />
-      <Landing />
-      <Catalogue />
+      <main>
+        <Landing />
+        <Catalogue />
+      </main>
       <Footer />
     </>
   )
