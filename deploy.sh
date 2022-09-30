@@ -11,3 +11,5 @@ git add -A
 git commit -m 'deploy'
 
 git push -f git@github.com:Adolfo-Juarez/signupart.git main:gh-pages
+
+cd -
